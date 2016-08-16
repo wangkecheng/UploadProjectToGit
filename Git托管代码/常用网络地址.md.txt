@@ -1,0 +1,32 @@
+# 常用网络地址
+
+## 网络共享
+
+**文件共享**：<http://chaosky.local>
+
+**终端共享**：<http://chaosky.local:13377>
+
+**作业上传**：<http://chaosky.local:3000> 
+
+上传格式：学号+姓名.zip，例如：2015102513林天祥.zip
+
+## 搜索引擎
+
+- 必应：<http://cn.bing.com/>
+- 雅虎：<https://search.yahoo.com/>
+- 虫部落快搜：<http://so.chongbuluo.com/>
+
+## Google镜像站搜集
+
+- <https://www.duoguge.com>
+
+- <https://www.tlss.space>
+
+- <http://www.googto.com>
+
+- <https://www.googto.org>
+
+- 各种编码转换 http://web.chacuo.net/charseturlencode
+- ios跳转到指定界面代码 ：http://www.jianshu.com/p/844888befcb2
+
+
